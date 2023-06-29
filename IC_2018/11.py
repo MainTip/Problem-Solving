@@ -1,5 +1,5 @@
 #update: There is an efficent and shorter code but this code is for learning , in advanced Solutions You'll See Like This Probelm Inserting
-Modulo and Floor for such a thing for a better algorithm 
+#Modulo and Floor for such a thing for a better algorithm 
 a=list(map(int,input().split()))
 b=list(map(int,input().split()))
 c=list(map(int,input().split()))
